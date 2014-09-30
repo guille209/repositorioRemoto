@@ -20,4 +20,7 @@ public class Persona {
 	public void saltar(){
 		
 	}
+	public void nadar(){
+		
+	}
 }

@@ -7,8 +7,8 @@ public class Persona {
 	private String numero;
 	private String direccion;
 	
-	public Persona(){
-		
+	public Persona(int dni){
+		this.dni = dni;
 	}
 	
 	public void andar(){

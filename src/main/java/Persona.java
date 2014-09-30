@@ -9,8 +9,8 @@ public class Persona {
 		
 	}
 	
-	public void andar(){
-		
+	public int andar(){
+		return 0;
 	}
 	public void correr(){
 		

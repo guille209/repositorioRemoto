@@ -12,4 +12,7 @@ public class Persona {
 	public void andar(){
 		
 	}
+	public void correr(){
+		
+	}
 }

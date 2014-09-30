@@ -1,7 +1,7 @@
 
 public class Persona {
 
-	private int dni;
+	private long dni;
 	private String nombre;
 	private String apellido;
 	private String numero;
@@ -12,8 +12,8 @@ public class Persona {
 		this.nombre=nombre;
 	}
 	
-	public void andar(){
-		
+	public int andar(){
+		return 0;
 	}
 	public void correr(){
 		

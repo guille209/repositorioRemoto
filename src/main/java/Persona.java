@@ -16,6 +16,8 @@ public class Persona {
 		return 0;
 	}
 	public void correr(){
+	}
+	public void saltar(){
 		
 	}
 }
